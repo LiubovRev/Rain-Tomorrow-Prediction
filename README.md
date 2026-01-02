@@ -1,6 +1,6 @@
 # 🌧️ Rain Tomorrow Prediction: End-to-End ML Pipeline
 
-### [🚀 Live Demo on Streamlit](https://mlhometasks-hpttpgdx7cjxsnwemqrz7b.streamlit.app/)
+### [🚀 Live Demo on Streamlit](https://gimde9eta2tywvxbumexmw.streamlit.app/)
 
 This repository features a complete Machine Learning workflow, from data exploration and model training to deploying a web-based application. The project predicts the probability of rainfall in Australia for the following day based on historical meteorological data.
 
